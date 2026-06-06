@@ -1,0 +1,160 @@
+*
+{
+    margin: 0;
+    font-family: sans-serif;
+}
+.glavni{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    color: #696871;
+}
+.but3{
+    width: 200px;
+    height: 40px;
+    background-color: #FF7143;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #FF7143;
+}
+.hero{
+    padding: 80px 70px;
+    margin-top: 100px;
+}
+.hero h1{
+    font-size: 60px;
+}
+.hero p{
+    margin-top: 20px;
+    color: #696871;
+}
+.hero button{
+    width: 160px;
+    height: 45px;
+    background-color: #5454D4;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid #5454D4;
+    margin-top: 30px;
+}
+.imghero1{
+    margin-left: 350px;
+    position: absolute;
+    top: 200px;
+    width: 600px;
+    height: 540px;
+   
+}
+.imghero2{
+    margin-left: 40px;
+    position: absolute;
+    margin-top: 26px;
+    width: 48px;
+}
+.logotip{
+    padding-top: 60px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.subscription{
+    padding: 160px 60px;
+    display: flex;
+}
+.subscription h1{
+    margin-left: 180px;
+    margin-top: 190px;
+}
+.subscription p{
+    margin-top: 250px;
+    margin-left: -286px;
+    row-gap: 150px;
+    color: #696871;
+}
+.metrics{
+     padding: 160px 80px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.metrics p{
+    color: #696871;
+}
+.metrics img{
+    margin-left: 500px;
+    margin-top: -350px;
+    width: 350px;
+    height: 480px;
+}
+.karta{
+    display: flex;
+    padding: 120px 80px;
+    text-align: center;
+    justify-content: space-around;
+}
+.karta img{
+    width: 150px;
+}
+.karta p{
+   color: #696871;
+   padding-top: 20px;
+}
+.getthe{
+    display: flex;
+    padding: 120px 80px;
+}
+.getthe h1{
+    font-size: 50px;
+}
+.getthe button{
+    width: 170px;
+    height: 50px;
+    background-color: #5454D4;
+    border-radius: 12px;
+    margin-left: 180px;
+    margin-top: 30px;
+    font-size: 15px;
+    border: 1px solid #5454D4;
+}
+.footer{
+    padding: 80px 80px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.footer h1{
+   font-size: 50px;
+   color: #1D293F;
+}
+.footer p{
+   color: #696871;
+}
+.footer button{
+   color: #5454D4;
+   width: 270px;
+   height: 50px;
+   border-radius: 8px;
+   margin-top: 45px;
+   border: 1px solid white;
+   background-color: white;
+}
+.div1{
+    padding-top: 30px;
+     width: 330px;
+    height: 370px;
+    background-color: #F8F8F8;
+    border-radius: 10px;
+}
+.div2{
+     width: 330px;
+    height: 450px;
+    background-color:#FF7143;
+    border-radius: 10px;
+    margin-top: -20px;
+}
+.div3{
+     width: 330px;
+    height: 400px;
+    background-color: #F8F8F8;
+    border-radius: 10px;
+}
